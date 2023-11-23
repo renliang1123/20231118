@@ -1,5 +1,5 @@
 # 20231118
-環境 google colab python /n
+環境 google colab python
 使用的包
 pennylane
 tensorflow
